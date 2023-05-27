@@ -308,6 +308,32 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./app/components/navbar/MenuItem.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/navbar/MenuItem.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/navbar/MenuItem.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/navbar/MenuItem.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./app/components/navbar/UserMenu.tsx": {
       "*": {
         "id": "(sc_client)/./app/components/navbar/UserMenu.tsx",
@@ -1161,6 +1187,30 @@ self.__RSC_MANIFEST={
     },
     "/Users/seancampbell/Documents/source/repos/airbnb-clone/app/components/navbar/Logo.tsx#default": {
       "id": "(app-client)/./app/components/navbar/Logo.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/seancampbell/Documents/source/repos/airbnb-clone/app/components/navbar/MenuItem.tsx": {
+      "id": "(app-client)/./app/components/navbar/MenuItem.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/seancampbell/Documents/source/repos/airbnb-clone/app/components/navbar/MenuItem.tsx#": {
+      "id": "(app-client)/./app/components/navbar/MenuItem.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/seancampbell/Documents/source/repos/airbnb-clone/app/components/navbar/MenuItem.tsx#default": {
+      "id": "(app-client)/./app/components/navbar/MenuItem.tsx",
       "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
